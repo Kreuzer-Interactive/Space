@@ -5,7 +5,7 @@
  Jon Kreuzer
 
 ### Programmed by
- JON KREUZER
+ Jon Kreuzer
 
 ### Graphics by
  Rob Kreuzer  
